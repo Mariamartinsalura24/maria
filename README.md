@@ -1,6 +1,8 @@
-Boas vindas ao meu oerfil
-Meu nome e maria martins
+Boas vindas ao meu perfil 💙💙
+Meu nome é nome sobrenome
 
-Estou estudando no alura
+Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
-Ultilizo esse espaço para minha organizaçao
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+00001239148203sp@al.educacao.sp.gov.br
